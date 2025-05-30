@@ -1,6 +1,6 @@
 # 🏀 SportsOrca Assignment
 
-This project fetches and displays upcoming **Basketball (NBA)** matches using the [BallDon'tLie API](https://www.balldontlie.io/). It includes both a frontend and backend built with the MERN stack.
+This project fetches and displays upcoming **Basketball (NBA)** matches using the [BallDon'tLie API](https://www.balldontlie.io/). It includes both a frontend and backend.
 
 ---
 
