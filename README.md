@@ -17,6 +17,6 @@ https://drive.google.com/drive/folders/1aP3M6oN6o_XW4xEeWFiWZSNkY6g5UKDi
 ## 🔧 Tech Stack
 
 - **Frontend**: React, Tailwind CSS  
-- **Backend**: Express.js, Axios  
+- **Backend**: Node.js, Express.js, RESTful API Axios  
 - **API**: [BallDon'tLie API](https://www.balldontlie.io/)  
 - **Environment Variables**: `.env` file for API key management  
