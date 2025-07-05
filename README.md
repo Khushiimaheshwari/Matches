@@ -1,4 +1,4 @@
-# 🏀 SportsOrca Assignment
+# 🏀 Matches
 
 This project fetches and displays upcoming **Basketball (NBA)** matches using the [BallDon'tLie API](https://www.balldontlie.io/). It includes both a frontend and backend.
 
